@@ -74,7 +74,7 @@ body {
 
 /* Add a subtle overlay to improve text readability */
 main {
-    background: rgba(245, 247, 250, 0.95);
+    background: rgba(203, 204, 206, 0.95);
     backdrop-filter: blur(10px);
     border-radius: 16px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
